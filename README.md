@@ -5,5 +5,5 @@
 
 <div <p><H3><b>Entropía y Probabilidad</b></div> 
   <div align="justify">Se presenta un simulador interactivo desarrollado en streamlit, con este simulador podrás obtener la curva de distribución para el lanzamiento de dos dados y la distribución de un número determinado de particulas de un gas encerradas en una caja.</div>
- <div <H4><b> Puedes acceder a simulador por este link: </b> <a href="https://wavallejol-streamlit-dbm-distribution-bm-er2s2h.streamlit.app/"> <img src='https://github.com/wavallejol/streamlit/blob/main/icon.png'width = "40" height = "15" /> </a></div>
+ <div <H4><b> Puedes acceder a simulador por este link: </b> <a href="https://wavallejol-streamlit-entropy-entropy-7g8vin.streamlit.app/"> <img src='https://github.com/wavallejol/streamlit/blob/main/icon.png'width = "40" height = "15" /> </a></div>
   <hr size="4" width="100%" color="red">
